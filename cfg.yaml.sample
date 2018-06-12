@@ -1,0 +1,8 @@
+ns_list:
+  - 1.2.4.5
+  - 8.8.8.8
+records:
+  - google.com
+  - codilime.com
+src: "myworkstation"
+sleep: 10
