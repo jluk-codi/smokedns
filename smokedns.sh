@@ -1,2 +1,2 @@
 #!/bin/sh
-python smokedns.py | tee dns.log.$(date +%s)
+python smokedns.py | tee -a dns.log.$(hostname)
